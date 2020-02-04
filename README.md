@@ -1,1 +1,3 @@
-# jo-lab
+# Jo Lab Bioinformatics Repository
+
+todo
